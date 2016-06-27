@@ -3,7 +3,7 @@
 HELLO WORD
 
 ===========================================
- This is repository of trainning in Oktana
+ This is repository of training in Oktana
 ===========================================
 
 
